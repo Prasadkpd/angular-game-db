@@ -26,4 +26,4 @@ export class HttpService {
       params: params
     });
   }
-}
+ }
